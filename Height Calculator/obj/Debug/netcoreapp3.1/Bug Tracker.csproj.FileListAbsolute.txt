@@ -1,0 +1,15 @@
+C:\Users\New User\source\repos\Bug Tracker\bin\Debug\netcoreapp3.1\Bug Tracker.exe
+C:\Users\New User\source\repos\Bug Tracker\bin\Debug\netcoreapp3.1\Bug Tracker.deps.json
+C:\Users\New User\source\repos\Bug Tracker\bin\Debug\netcoreapp3.1\Bug Tracker.runtimeconfig.json
+C:\Users\New User\source\repos\Bug Tracker\bin\Debug\netcoreapp3.1\Bug Tracker.runtimeconfig.dev.json
+C:\Users\New User\source\repos\Bug Tracker\bin\Debug\netcoreapp3.1\Bug Tracker.dll
+C:\Users\New User\source\repos\Bug Tracker\bin\Debug\netcoreapp3.1\Bug Tracker.pdb
+C:\Users\New User\source\repos\Bug Tracker\obj\Debug\netcoreapp3.1\Bug Tracker.csprojAssemblyReference.cache
+C:\Users\New User\source\repos\Bug Tracker\obj\Debug\netcoreapp3.1\Bug_Tracker.Form1.resources
+C:\Users\New User\source\repos\Bug Tracker\obj\Debug\netcoreapp3.1\Bug Tracker.csproj.GenerateResource.cache
+C:\Users\New User\source\repos\Bug Tracker\obj\Debug\netcoreapp3.1\Bug Tracker.AssemblyInfoInputs.cache
+C:\Users\New User\source\repos\Bug Tracker\obj\Debug\netcoreapp3.1\Bug Tracker.AssemblyInfo.cs
+C:\Users\New User\source\repos\Bug Tracker\obj\Debug\netcoreapp3.1\Bug Tracker.csproj.CoreCompileInputs.cache
+C:\Users\New User\source\repos\Bug Tracker\obj\Debug\netcoreapp3.1\Bug Tracker.dll
+C:\Users\New User\source\repos\Bug Tracker\obj\Debug\netcoreapp3.1\Bug Tracker.pdb
+C:\Users\New User\source\repos\Bug Tracker\obj\Debug\netcoreapp3.1\Bug Tracker.genruntimeconfig.cache
